@@ -2,7 +2,9 @@
 
 
 A basic 2D classic video game ballboy written in JavaFX. Try to control your hero ballboy without colliding with the enemies, and use his pet squarecat to destroy enemies. 
-**Goal:** Get through all the levels to win, and try to kill more enemies for a higher score,
+**Goal:** Get through all the levels to win, and try to kill more enemies for a higher score.
+
+![screenshot1](./img/ballboy_screenshot1.png)
 
 
 
